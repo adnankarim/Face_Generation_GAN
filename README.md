@@ -10,7 +10,6 @@ This dataset is more complex than the number datasets (like MNIST or SVHN), and 
 Here is link to the Data [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train adversarial networks.
 
 This dataset is more complex than the number datasets (like MNIST or SVHN), and so, I  prepared to define deeper networks and train them for a longer time to get good results.I utilized a GPU for training.
->>>>>>> 22879ddc00d455b902af91372b363dc1b97593fd
 
 # Goal
 
