@@ -3,12 +3,10 @@
 In this project, I defined and train a DCGAN on a dataset of faces. Goal was to get a generator network to generate new images of faces that look as realistic as possible!
 
 ### Getting the Data
-<<<<<<< HEAD
 
 Here is link to the Data [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train adversarial networks.
 
 This dataset is more complex than the number datasets (like MNIST or SVHN), and so, I prepared to define deeper networks and train them for a longer time to get good results.I utilized a GPU for training.
-=======
 Here is link to the Data [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train adversarial networks.
 
 This dataset is more complex than the number datasets (like MNIST or SVHN), and so, I  prepared to define deeper networks and train them for a longer time to get good results.I utilized a GPU for training.
